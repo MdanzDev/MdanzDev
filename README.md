@@ -39,7 +39,6 @@
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
 | **Gamevia-Bot** | Multi-feature automation bot for WhatsApp | Node.js, Baileys |
-| **Gamevia.Shop** | Scalable e-commerce backend & frontend | React, Node.js, MongoDB |
 | **Kryz.Net Portal** | Core site for projects, teams, and digital integrations | Next.js, Express |
 | **Mallz** | Store platform with admin control & live editing | HTML, CSS, JS, JSON |
 | **NexzonBlaze** | Advanced WhatsApp bot with AI and payload features | Node.js, Baileys |
