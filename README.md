@@ -65,7 +65,7 @@
 ### 🌐 Connect With Me
 - 🖥️ Website: [kryz.net](https://kryz.net)  
 - 💬 WhatsApp: [+60 137345871](https://wa.me/60137345871)  
-- 📫 Email: contact@kryz.net  
+- 📫 Email: kryz-xyz@kryz.net  
 - 💡 Partner: [Gamevia.Shop](https://gamevia.shop)
 
 ---
